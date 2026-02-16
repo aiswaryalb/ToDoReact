@@ -1,0 +1,7 @@
+ body {
+   font-family: 'Inter', sans-serif;
+ }
+
+ .task-item:hover .delete-btn {
+   opacity: 1;
+ }
